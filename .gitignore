@@ -1,0 +1,6 @@
+.metadata
+hims/HELP.md
+hims/target/
+hims/!**/src/main/**/target/
+hims/!**/src/test/**/target/
+maven-wrapper.properties
